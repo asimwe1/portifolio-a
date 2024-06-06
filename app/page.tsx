@@ -9,9 +9,9 @@ export default function Home() {
   return (
     <html>
       <head>
-      <script async
-      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6172208143098274"
-      crossOrigin="anonymous"></script>
+        <script async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6172208143098274"
+          crossOrigin="anonymous"></script>
       </head>
       <body>
         <main className="h-full w-full">
